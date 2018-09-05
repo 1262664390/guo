@@ -1,6 +1,2 @@
-aaaaaaaaaaaaaaaaaa
-bbbbbbbbbbbbbbbbbbb
-ccccccccccccccccccccccc
-dddddddddddddddddddddddddddddddd
-eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeefffffffffffffff
-kill  kill kill  kill  kill 
+fffffffffffffffffffffff
+hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
