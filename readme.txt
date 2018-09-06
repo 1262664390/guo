@@ -2,5 +2,4 @@ fffffffffffffffffffffff
 hhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 sssssssssssssss
 vvvvvvvvvvvvvvvvvvvvvvv
-Creating a new branch is quick and simple.
-123456aaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaa
